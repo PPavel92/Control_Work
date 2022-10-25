@@ -1,0 +1,15 @@
+C:\Users\Prosk\Desktop\Control work\Control_Task\Control_Work\Control_Task\bin\Debug\net6.0\Control_Task.exe
+C:\Users\Prosk\Desktop\Control work\Control_Task\Control_Work\Control_Task\bin\Debug\net6.0\Control_Task.deps.json
+C:\Users\Prosk\Desktop\Control work\Control_Task\Control_Work\Control_Task\bin\Debug\net6.0\Control_Task.runtimeconfig.json
+C:\Users\Prosk\Desktop\Control work\Control_Task\Control_Work\Control_Task\bin\Debug\net6.0\Control_Task.dll
+C:\Users\Prosk\Desktop\Control work\Control_Task\Control_Work\Control_Task\bin\Debug\net6.0\Control_Task.pdb
+C:\Users\Prosk\Desktop\Control work\Control_Task\Control_Work\Control_Task\obj\Debug\net6.0\Control_Task.csproj.AssemblyReference.cache
+C:\Users\Prosk\Desktop\Control work\Control_Task\Control_Work\Control_Task\obj\Debug\net6.0\Control_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prosk\Desktop\Control work\Control_Task\Control_Work\Control_Task\obj\Debug\net6.0\Control_Task.AssemblyInfoInputs.cache
+C:\Users\Prosk\Desktop\Control work\Control_Task\Control_Work\Control_Task\obj\Debug\net6.0\Control_Task.AssemblyInfo.cs
+C:\Users\Prosk\Desktop\Control work\Control_Task\Control_Work\Control_Task\obj\Debug\net6.0\Control_Task.csproj.CoreCompileInputs.cache
+C:\Users\Prosk\Desktop\Control work\Control_Task\Control_Work\Control_Task\obj\Debug\net6.0\Control_Task.dll
+C:\Users\Prosk\Desktop\Control work\Control_Task\Control_Work\Control_Task\obj\Debug\net6.0\refint\Control_Task.dll
+C:\Users\Prosk\Desktop\Control work\Control_Task\Control_Work\Control_Task\obj\Debug\net6.0\Control_Task.pdb
+C:\Users\Prosk\Desktop\Control work\Control_Task\Control_Work\Control_Task\obj\Debug\net6.0\Control_Task.genruntimeconfig.cache
+C:\Users\Prosk\Desktop\Control work\Control_Task\Control_Work\Control_Task\obj\Debug\net6.0\ref\Control_Task.dll
